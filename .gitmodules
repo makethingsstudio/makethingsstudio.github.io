@@ -1,0 +1,3 @@
+[submodule "app/wiki"]
+	path = app/wiki
+	url = git@github.com:makethingsstudio/make-things.com.wiki.git
