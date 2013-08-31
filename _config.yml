@@ -4,8 +4,8 @@
 # it doesn't work, check if it is set in the Gruntfile. There is also a
 # _config.build.yml to set custom overrides for `grunt build`.
 
-name: website
-description: Make Things Studio
+name: makethingsstudio
+description: Website for Make Things Studio
 
 author:
   name: Ben Kutil
