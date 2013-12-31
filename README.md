@@ -9,4 +9,4 @@ I'm keeping track of the thinking behind the new website in the [Wiki](https://g
 
 ## Design Process
 
-You can track the progress of the design in the Design Branch - coming soon
+You can track the progress of the design in the [Design Branch](https://github.com/makethingsstudio/make-things.com/tree/design/show)
